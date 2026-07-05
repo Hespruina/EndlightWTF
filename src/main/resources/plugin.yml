@@ -1,0 +1,5 @@
+name: EndlightWTF
+version: '1'
+main: top.zhrhello.EndlightWTF
+api-version: '1.20'
+folia-supported: true
